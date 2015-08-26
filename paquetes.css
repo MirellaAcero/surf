@@ -111,9 +111,9 @@ a {
 }
 
 .video {
-	position: relative;
-	float: left;
-	top: 30%;
-	left: 33%;
+  position: relative;
+  float: left;
+  top: 15%;
+  left: 33%;
 }
 
